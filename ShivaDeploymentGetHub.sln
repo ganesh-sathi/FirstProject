@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShivaDeploymentGetHub", "ShivaDeploymentGetHub\ShivaDeploymentGetHub.csproj", "{9ADCF0D8-FC3D-4804-9E40-D6096B1364CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADCF0D8-FC3D-4804-9E40-D6096B1364CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADCF0D8-FC3D-4804-9E40-D6096B1364CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADCF0D8-FC3D-4804-9E40-D6096B1364CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADCF0D8-FC3D-4804-9E40-D6096B1364CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D4FF0F-3973-42CF-B92B-957E47932D4F}
+	EndGlobalSection
+EndGlobal
